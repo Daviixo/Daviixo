@@ -1,7 +1,9 @@
 
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/emilia-rem-3o7buh8WbaZLupolXi" width="100"/>
+  <img src="https://giphy.com/embed/3o7buh8WbaZLupolXi" width="100"/>
 </div>
+
+
 
 ### Hi there 👋
 
