@@ -13,7 +13,7 @@ If you'd like to know me a bit better, please feel free to connect with me:
   </a>
 </div>
 
-## These are the languages and I'd say I'm currently good at:
+## These are the languages and tools I'd say I'm currently good at:
 
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
